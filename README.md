@@ -16,6 +16,7 @@ Otherwise = just the sum of values
 •Dynamic Gameplay: After collecting a treasure, either a new treasure of the same type or an obstacle is added randomly to the grid.
 
 •End Conditions:
+
 No treasures left on the grid
 
 Hunter cannot move in any direction
